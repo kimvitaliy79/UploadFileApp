@@ -1,0 +1,58 @@
+body {
+	background-color: #f6f6ff;
+	font-family: Calibri, Myriad;
+}
+
+#main {
+	width: 880px;
+	padding: 20px;
+	margin: auto;
+}
+
+table.listTbl {
+	margin: auto;
+	width: 700px;
+	border-collapse: collapse;
+	border: 1px solid black; /*for older IE*/
+
+}
+
+table.listTbl caption {
+	background-color: #f79646;
+	color: #fff;
+	font-size: x-large;
+	font-weight: bold;
+	letter-spacing: .3em;
+}
+
+table.listTbl thead th {
+	padding: 8px;
+	background-color: #fde9d9;
+	font-size: large;
+}
+
+table.listTbl thead th#thName {
+	width: 40%;	
+}
+
+table.listTbl thead th#thSize, table.listTbl thead th#thType, table.listTbl thead th#thUploadDate {
+	width: 20%;
+}
+
+table.listTbl th, table.listTbl td {
+	padding: 3px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #f79646 #ccc;
+}
+
+table.listTbl td {
+	text-align: right;
+}
+
+table.listTbl tbody th {
+	text-align: left;
+	font-weight: normal;
+}
+
+

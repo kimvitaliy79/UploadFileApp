@@ -1,0 +1,102 @@
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\UploadData.Test.dll.config
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\UploadData.Test.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\UploadData.Test.pdb
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Http.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\UploadData.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Http.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\UploadData.pdb
+C:\Users\User\source\repos\API\UploadData.Test\obj\Debug\UploadData.Test.csproj.CopyComplete
+C:\Users\User\source\repos\API\UploadData.Test\obj\Debug\UploadData.Test.dll
+C:\Users\User\source\repos\API\UploadData.Test\obj\Debug\UploadData.Test.pdb
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Castle.Core.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Castle.Core.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\API\UploadData.Test\obj\Debug\UploadData.Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Cors.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\UploadData.dll.config
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\User\source\repos\API\UploadData.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\UploadData.Test.dll.config
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\UploadData.Test.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\UploadData.Test.pdb
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Http.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\UploadData.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Cors.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Http.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\UploadData.pdb
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\UploadData.dll.config
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\test app\API\UploadData.Test\obj\Debug\UploadData.Test.csprojAssemblyReference.cache
+C:\Users\User\Desktop\test app\API\UploadData.Test\obj\Debug\UploadData.Test.csproj.CopyComplete
+C:\Users\User\Desktop\test app\API\UploadData.Test\obj\Debug\UploadData.Test.dll
+C:\Users\User\Desktop\test app\API\UploadData.Test\obj\Debug\UploadData.Test.pdb

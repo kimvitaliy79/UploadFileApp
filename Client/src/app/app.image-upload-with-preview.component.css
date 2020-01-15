@@ -1,0 +1,15 @@
+body {
+	background-color: #f6f6ff;
+	font-family: Calibri, Myriad;
+}
+#main {
+    align-content: center;
+	width: 400px;
+	padding: 20px;
+    margin: auto;
+    border: 1px solid black;
+}
+.submitBtn{
+        text-align: right;
+}
+

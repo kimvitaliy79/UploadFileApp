@@ -1,0 +1,28 @@
+<div>
+    <app-image-upload-with-preview (SubmitDataEvent)="SubmitData()"></app-image-upload-with-preview>   
+</div>
+<div *ngIf="erorrMsg">
+    {{ erorrMsg }}
+  </div>
+<div id="main">  
+  <table class="listTbl">
+    <caption>List of files</caption>
+      <thead>
+          <tr>
+              <th id="thName">Name</th>
+              <th id="thSize">Size</th>  
+              <th id="thType" >Type</th>     
+              <th id="thUploadDate">Upload Date</th>          
+          </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let item of items">
+              <td>{{item.Name}}</td>
+              <td>{{item.Size}}</td>   
+              <td>{{item.Type}}</td>
+              <td>{{item.UploadDate}}</td> 
+          </tr>
+      </tbody>
+  </table>
+</div>
+

@@ -1,0 +1,29 @@
+
+<div id="main">
+  <div>
+    <div>
+      <h3>Choose File</h3>
+      <div >
+        <input type="file" name="image" (change)="fileProgress($event)" />
+      </div>
+      <div *ngIf="validationError">
+        {{ validationError }}
+      </div>
+      <div *ngIf="fileUploadProgress">
+        Upload progress: {{ fileUploadProgress }}
+      </div>
+      <div *ngIf="previewUrl">
+        <img [src]="previewUrl" height="200" />
+      </div>
+      <div *ngIf="uploadedFilePath">
+        {{uploadedFilePath}}
+      </div>
+      <div class="submitBtn">
+        <button (click)="onSubmit()">Submit</button>
+      </div>     
+    </div>
+  </div>
+</div>
+
+
+
